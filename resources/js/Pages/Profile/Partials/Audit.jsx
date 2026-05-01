@@ -1,9 +1,9 @@
 import React from 'react';
 import { useForm } from '@inertiajs/react';
 
-import PrimaryButton from '@/Components/PrimaryButton';
-import InputLabel from '@/Components/InputLabel';
-import TextInput from '@/Components/TextInput';
+import PrimaryButton from '@/components/PrimaryButton';
+import InputLabel from '@/components/InputLabel';
+import TextInput from '@/components/TextInput';
 import { LEADER_QUESTIONS } from '@/components/questions/Leader';
 import { OWNER_QUESTIONS } from '@/components/questions/Owner';
 import { TEAM_QUESTIONS } from '@/components/questions/Team';
